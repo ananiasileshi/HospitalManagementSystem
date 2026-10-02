@@ -19,6 +19,7 @@ packages/
 
 # Logs
 *.log
+*.rar
 
 # OS generated
 Thumbs.db
